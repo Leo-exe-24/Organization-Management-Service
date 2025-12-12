@@ -1,6 +1,8 @@
 # Design Brief — Organization Management Service
 
-## High level diagram (ASCII)
+## Architecture Diagram With High level diagram (ASCII) 
+
+<img width="1024" height="1024" alt="cfc70932-f5a1-4790-8a2d-d9a85479b3fa" src="https://github.com/user-attachments/assets/4229239e-d259-4eb2-8c4e-aec751748506" />
 
 ```
 [Client] --> [Uvicorn + FastAPI app] --> [MongoDB]
