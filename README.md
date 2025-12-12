@@ -142,28 +142,6 @@ Workflow includes:
 
 ------------------------------------------------------------------------
 
-## 🏷️ Recommended Tags
-
-    fastapi
-    mongodb
-    motor
-    jwt-authentication
-    python-backend
-    rest-api
-    docker
-    docker-compose
-    asyncio
-    microservices
-    authentication
-    organization-management
-    crud-api
-    fullstack-backend
-    uvicorn
-    software-architecture
-    clean-architecture
-
-------------------------------------------------------------------------
-
 ## 📜 License
 
 Open-source under the MIT License.
