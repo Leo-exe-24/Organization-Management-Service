@@ -142,6 +142,16 @@ Workflow includes:
 
 ------------------------------------------------------------------------
 
+## 📘 Additional Documentation
+
+See **DESIGN_BRIEF.md** for:
+- Architecture explanation  
+- Scalability discussion  
+- Trade-offs in tech stack  
+- Optional improved system design  
+
+-----------------------------------------------------------------------
+
 ## 📜 License
 
 Open-source under the MIT License.
